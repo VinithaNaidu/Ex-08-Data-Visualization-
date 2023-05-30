@@ -130,8 +130,11 @@ plt.show()
 
 # OUPUT :
 ![image](https://github.com/VinithaNaidu/Ex-08-Data-Visualization-/assets/121166004/507a3fb1-9e1d-40cc-a36c-da7e491ca3bf)
+
 ![image](https://github.com/VinithaNaidu/Ex-08-Data-Visualization-/assets/121166004/1677a2e6-f11c-4073-ab40-47bbcca14db8)
+
 ![image](https://github.com/VinithaNaidu/Ex-08-Data-Visualization-/assets/121166004/11ae1602-08ae-41f1-81be-ec71eea165f5)
+
 ![image](https://github.com/VinithaNaidu/Ex-08-Data-Visualization-/assets/121166004/45517166-80e0-409d-aad3-a5c83a58c79d)
 ## Which Segment has Highest sales?
 ![image](https://github.com/VinithaNaidu/Ex-08-Data-Visualization-/assets/121166004/d8b97eb7-7ceb-45bb-9d67-db458dc39759)
